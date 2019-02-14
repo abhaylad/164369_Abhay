@@ -1,0 +1,22 @@
+<p>
+  app-ngfor-directives works!
+</p>
+
+	<table border="0">  
+    	    <tr>  
+    	        <th>Sr.No</th>  
+    	        <th>Player Name</th>  
+    	        <th>Batting style</th>  
+    	        <th>ODI Hundreds</th>  
+    	        <th>Test Hundreds</th>  
+    	    </tr>  
+    	    <tr *ngFor='let c of cricketers let i = index let even=even,let odd=odd let first=first,let last=last' [ngClass]={first:first,odd:odd,even:even,last:last}>  
+    	        <td>{{i+1}}</td>  
+    	        <td>{{c.name}}</td>  
+    	        <td>{{c.BattingStyle}}</td>  
+    	        <td>{{c.ODI}}</td>  
+    	        <td>{{c.Test}}</td>  
+        </tr>  
+	</table>  
+    
+    

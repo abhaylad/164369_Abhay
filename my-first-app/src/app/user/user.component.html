@@ -1,0 +1,26 @@
+<p>
+  user works!
+</p>
+<form>
+First Name: <input type="text" name="firstName"/><br>
+Last Name: <input type="text" name="lastName"/>
+</form>
+
+<hr>
+<h3>Event handling </h3>
+<p>
+  <button (click)="convertToUpperCase()">To Upper</button>
+</p>
+<p>
+  <button (click)="convertToLowerCase()">To Lower</button>
+</p>
+
+	<hr>
+	<h3>Structural Directives</h3>
+	<ul>
+	    <li *ngFor="let tempCity of cities">
+	        {{tempCity}}
+	    </li>
+</ul>
+
+  
