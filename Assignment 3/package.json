@@ -1,0 +1,13 @@
+{
+  "name": "hjk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[4\u001b[C\u001b[C\u001b[C\u001b[C",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhay",
+  "license": "ISC"
+}
