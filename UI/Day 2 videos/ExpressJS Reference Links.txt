@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/48033601/how-to-extract-get-form-data-in-express-js
+
+https://stackoverflow.com/questions/4295782/how-do-you-extract-post-data-in-node-js
+
+-------------------------------------------
+https://appdividend.com/2018/02/06/express-form-validation-tutorial/

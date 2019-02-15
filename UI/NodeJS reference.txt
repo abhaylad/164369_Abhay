@@ -1,0 +1,5 @@
+Question 2 reference 
+
+Make an express program that will display the year you were born when you report your age in a query parameter. When you type in http://localhost:3000/year?age=32 into the address bar of your browser, for example, it will display You were born in 1984.
+
+https://scotch.io/tutorials/use-expressjs-to-get-url-and-post-parameters
